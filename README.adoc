@@ -35,6 +35,8 @@ Try this guide in skill network by clicking this https://labs.cognitiveclass.ai/
 
 Testing guide convertor #1.
 
+test-actions/guide-microprofile-reactive-messaging-acknowledgment
+
 MicroProfile Reactive Messaging provides a reliable way to handle messages in reactive applications. MicroProfile Reactive
 Messaging ensures that messages aren't lost by requiring that messages that were delivered to the target server are acknowledged
 after they are processed. Every message that gets sent out must be acknowledged. This way, any messages that were delivered
