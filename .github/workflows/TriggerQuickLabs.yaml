@@ -31,6 +31,6 @@ jobs:
       with:
         workflow: GuideConverter
         repo: test-actions/quick-labs
-        token: ${{ secrets.GUIDECONVERSIONTOOL_PASSWORD }}
+        token: ${{ secrets.ACTION_TOKEN }}
         inputs: '{ "branch": "${{ github.ref }}", "guide_name": "${{ github.event.repository.name }}" }'
         ref: "refs/heads/master"
