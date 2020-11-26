@@ -31,11 +31,7 @@ Learn how to acknowledge messages by using MicroProfile Reactive Messaging.
 
 == What you'll learn
 
-This is a test
-
-This is a test
-
-This is a test
+HELO
 
 MicroProfile Reactive Messaging provides a reliable way to handle messages in reactive applications. MicroProfile Reactive
 Messaging ensures that messages aren't lost by requiring that messages that were delivered to the target server are acknowledged
