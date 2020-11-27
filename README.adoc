@@ -29,7 +29,7 @@ NOTE: This repository contains the guide documentation source. To view the guide
 
 Learn how to acknowledge messages by using MicroProfile Reactive Messaging.
 
-THis is a test12312345678`123456789
+THis is a test12312345678`1662345678
 
 == What you'll learn
 
