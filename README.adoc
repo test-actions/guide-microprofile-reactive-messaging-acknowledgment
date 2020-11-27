@@ -29,6 +29,8 @@ NOTE: This repository contains the guide documentation source. To view the guide
 
 Learn how to acknowledge messages by using MicroProfile Reactive Messaging.
 
+THis is a test
+
 == What you'll learn
 
 MicroProfile Reactive Messaging provides a reliable way to handle messages in reactive applications. MicroProfile Reactive
