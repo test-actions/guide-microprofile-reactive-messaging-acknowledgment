@@ -31,6 +31,8 @@ Learn how to acknowledge messages by using MicroProfile Reactive Messaging.
 
 AUSTIN TESTING !@£
 
+HELLO TEST @@@@@@@ JAKUB 
+
 == What you'll learn
 
 MicroProfile Reactive Messaging provides a reliable way to handle messages in reactive applications. MicroProfile Reactive
