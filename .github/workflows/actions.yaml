@@ -27,7 +27,7 @@ jobs:
       uses: benc-uk/workflow-dispatch@v1
       with:
         workflow: GuideConverter
-        repo: OpenLiberty/quick-labs
+        repo: test-actions/quick-labs
         token: ${{ secrets.ACTION_TOKEN }}
         inputs: '{ "branch": "${{ github.ref }}", "guide_name": "${{ github.event.repository.name }}" }'
         ref: "refs/heads/master"
